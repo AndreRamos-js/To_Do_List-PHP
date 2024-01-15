@@ -1,0 +1,8 @@
+{
+    "name": "andre/to-do-list-php",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "classes/"
+        }
+    }
+}
